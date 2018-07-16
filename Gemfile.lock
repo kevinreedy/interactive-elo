@@ -1,0 +1,18 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    elo (0.1.0)
+    thor (0.20.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  elo
+  thor
+
+RUBY VERSION
+   ruby 2.5.1p57
+
+BUNDLED WITH
+   1.16.1
